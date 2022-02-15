@@ -1,8 +1,8 @@
 # ECG arrhythmia classification using a 2-D convolutional neural network.
 
-這是一支"使用卷積神經網路(CNN)對2D心電圖訊號影像進行心律不整疾病類型分類"的程式.
+這是"使用卷積神經網路(CNN)對2D心電圖訊號影像進行心律不整疾病類型分類"的程式.
 
-The model was trained on MIT-BIH Arrythmia dataset. It took 60 hours to train the model on an NVIDIA Tesla GPU.  
+模型需透過MIT-BIH心律不整訊號資料集進行訓練。  
 This is the link to the model's weights: https://drive.google.com/open?id=1WaenBnWYyhiumkvfaqEcDzti4S9aEuhS
 
 The model can detect arrythmias of 6 types, namely: 
