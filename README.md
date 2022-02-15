@@ -2,8 +2,6 @@
 
 ECG arrhythmia classification using a 2-D convolutional neural network.
 
-This is an implementation of this paper: https://arxiv.org/pdf/1804.06812.pdf
-
 The model was trained on MIT-BIH Arrythmia dataset. It took 60 hours to train the model on an NVIDIA Tesla GPU.
 
 The model can detect arrythmias of 6 types, namely: 
