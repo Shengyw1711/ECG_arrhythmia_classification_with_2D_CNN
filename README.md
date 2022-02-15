@@ -5,7 +5,7 @@
 模型需透過MIT-BIH心律不整訊號資料集進行訓練。  
 可以透過此網址下載模型的權重: https://drive.google.com/open?id=1WaenBnWYyhiumkvfaqEcDzti4S9aEuhS
 
-The model can detect arrythmias of 6 types, namely: 
+模型可以檢測6種類型的心律不整: 
 1. Atrial premature contraction beat (APC)
 2. Left bundle branch block beat (LBB)
 3. Paced beat (PAB)
